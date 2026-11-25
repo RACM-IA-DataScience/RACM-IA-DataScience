@@ -1,3 +1,6 @@
+![RACM Artificial Intelligence & Data Science](image/RACM_Artificial_Intelligence_Data_Science.png)
+
+
 # Hola, soy Roberto Alejandro 👋
 
 ## 👨‍💻 Sobre mí
